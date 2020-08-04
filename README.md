@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou formado em Design Gráfico e apaixonado por tecnologia. 
- <br/> Em 2016 fiz curso técnico de Web Design e PHP Development porém continuei trabalhando como designer gráfico.
+ <br/> Em 2016 fiz curso técnico de Web Design e PHP Development porém não ingressei no mercado de trabalho e acabei perdendo o foco da programação. Hoje depois de 10 anos trabalhando como designer gráfico estou em busca de novos desafios e quero ingressar com tudo nesta área de desenvolvimento.
  <br/> Hoje sou estudante de Análise e Desenvolvimento de Sistemas buscando uma oportunidade de trabalho com desenvolvimento web.
 
  <br/> :rocket: &nbsp; Buscando novos conhecimentos e desafios.
