@@ -1,16 +1,15 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**BrunoZBonetto/BrunoZBonetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Bruno Zanotti Bonetto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou formado em Design Gráfico e apaixonado por tecnologia. 
+ <br/> Em 2016 fiz curso técnico de Web Design e PHP Development porém continuei trabalhando como designer gráfico.
+ <br/> Hoje sou estudante de Análise e Desenvolvimento de Sistemas buscando uma oportunidade de trabalho com desenvolvimento web.
+
+ :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+ <br/> :purple_heart: &nbsp; Buscando conhecimentos e quem sabe colaborar com algum projeto Web.
+ <br/> :computer: &nbsp; Meus conhecimentos: HTML, CSS, JS, PHP e SQL.
+ <br/> 💬  &nbsp; Sobre mim: Viciado em Podcasts, curto tecnologias em geral, entusiasta da internet das coisas e jogador casual de CS:GO.
+ <br/> :email: &nbsp; Entre em contato comigo: bzb.caxias@gmail.com
