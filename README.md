@@ -10,5 +10,5 @@ Sou formado em Design Gráfico e apaixonado por tecnologia.
 
  <br/> :rocket: &nbsp; Buscando novos conhecimentos e desafios.
  <br/> :computer: &nbsp; Estudando atualmente: HTML, CSS e JS.
- <br/> 💬  &nbsp; Sobre mim: Viciado em Podcasts, curto tecnologias em geral, entusiasta da internet das coisas e jogador casual de CS:GO.
+ <br/> 💬  &nbsp; Sobre mim: Viciado em Podcasts, curto tecnologias em geral, entusiasta da internet das coisas.
  <br/> :email: &nbsp; Entre em contato comigo: bzb.caxias@gmail.com
